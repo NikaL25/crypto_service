@@ -117,3 +117,11 @@ public | prices | table | crypto_user
 ## Тестирование
 
 ` pytest tests/`
+
+## Screenshots
+
+![get-all](screenshots/screen-2.jpg)
+
+![latest](screenshots/screen-2.jpg)
+
+![by-date](screenshots/screen-2.jpg)
