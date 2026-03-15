@@ -56,10 +56,8 @@ CELERY_RESULT_BACKEND=redis://redis:6379/1
 
 ## 4. Применение Миграций Alembic
 
-# 1.
 `docker exec -it crypto_service-api-1 alembic revision --autogenerate -m "create prices table" `
 
-# 2.
 `docker exec -it crypto_service-api-1 alembic upgrade head`
 
 ## 5. Проверка создания таблице в базе данных
