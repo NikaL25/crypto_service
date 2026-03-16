@@ -122,8 +122,8 @@ public | prices | table | crypto_user
 
 ## Screenshots
 
-![get-all](screenshots/screen-2.jpg)
+![get-all](screenshots/get-all.jpg)
 
-![latest](screenshots/screen-2.jpg)
+![latest](screenshots/latest.jpg)
 
-![by-date](screenshots/screen-2.jpg)
+![by-date](screenshots/by-date.jpg)
